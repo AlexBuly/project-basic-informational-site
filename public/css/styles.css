@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+}
+
+.links {
+    display: flex;
+    justify-content: space-around;
+    background-color: lightgray;
+}
+
+h1, .contact-details {
+    text-align: center;
+}
